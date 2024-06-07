@@ -2,6 +2,7 @@ package com.gmail.rizakm1999;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello GURU!!!!!!!!");
+        private static String msg = "Hello GURU!!!!!!!!");
+        System.out.println(msg);
     }
 }
